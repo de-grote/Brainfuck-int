@@ -5,7 +5,9 @@ edition = "2021"
 rust-version = "1.70.0"
 license = "MIT"
 authors = ["de_grote"]
+repository = "https://github.com/de-grote/Brainfuck-int"
 readme = "reamde.md"
+keywords = ["brainfuck", "interpreter"]
 
 [dependencies]
 clap = { version = "4.5.18", features = ["derive"] }
